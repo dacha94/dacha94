@@ -7,7 +7,8 @@
 # Contacts: 
 
 <a href="mailto:marimery505@gmail.com">E-mail</a>
-<a href="https://t.me/dachaDacha94'>Telegram</a>
+
+<a href="https://t.me/dachaDacha94">Telegram</a>
 
 <!---
 dacha94/dacha94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
