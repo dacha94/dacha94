@@ -2,7 +2,7 @@
 
 - Looking for a job in IT
 - I am currently working on JavaScript and ReactJS
-- I study at [ITGIRLSCHOOL](https://itgirlschool.com/)
+- I study
 
 # Contacts: 
 
